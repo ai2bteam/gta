@@ -4,15 +4,15 @@
 
 ```
 gta/
-├── characters/    8 подпапок-персонажей: портреты + официальные скриншоты (44 файла) — см. characters/INDEX.md
-├── locations/     6 локаций (Ambrosia, Grassrivers, Leonida Keys, Mount Kalaga, Port Gellhorn, Vice City), 34 скриншота — см. locations/INDEX.md
-├── vehicles/      29 кадров транспорта из паков Ultimate Edition и Vintage Vice City (8 подпапок-сущностей) — см. vehicles/INDEX.md
+├── characters/    8 подпапок-персонажей: портреты + официальные скриншоты (44 файла); CHARACTERS.md — справочник всех персонажей — см. characters/INDEX.md
+├── locations/     6 локаций (Ambrosia, Grassrivers, Leonida Keys, Mount Kalaga, Port Gellhorn, Vice City), 34 скриншота; LEONIDA.md — обзор штата и округов — см. locations/INDEX.md
+├── vehicles/      29 кадров транспорта из паков Ultimate Edition и Vintage Vice City (8 подпапок-сущностей); VEHICLES.md — справочник 200+ подтверждённых машин — см. vehicles/INDEX.md
 ├── logos/         (пусто)
 ├── screenshots/
 │   ├── trailer_1/ 38 кадров из GTA VI Trailer 1 (2023), 4K — см. screenshots/trailer_1/INDEX.md
 │   └── trailer_2/ 34 кадра из GTA VI Trailer 2 (2025), 4K — см. screenshots/trailer_2/INDEX.md
 ├── artwork/       112 официальных артов-обоев: ключевые арты Jason & Lucia, персонажи, cover art, открытки локаций (6 форматов на сюжет) — см. artwork/INDEX.md
-├── maps/          (пусто)
+├── maps/          5 фанатских реконструкций карты Leonida (Mapping Community v13, сравнение с GTA V и др.) — см. maps/INDEX.md
 ├── ui/            (пусто)
 └── misc/          34 кадра: магазины, одежда, оружие и промо из паков Ultimate Edition и Vintage Vice City — см. misc/INDEX.md
 ```
