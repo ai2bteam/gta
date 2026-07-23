@@ -1,0 +1,11 @@
+---
+title: Mount Kalaga National Park — Visit Leonida postcard (portrait)
+source: GTA VI official artwork wallpapers (Rockstar press kit)
+type: artwork
+tags: [postcard, mount-kalaga, national-park, forest, river, artwork, wallpaper, portrait]
+resolution: 2160x3840
+license: Rockstar promo / fair use
+added: 2026-07-23
+---
+
+Открытка «Visit Leonida»: национальный парк Маунт-Калага — горная река среди леса и валунов, туристы с каяком на берегу и олень на водопое в лучах солнца. Этот файл — портретный кроп 9:16 (2160x3840).
