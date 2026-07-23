@@ -12,12 +12,14 @@ gta/
 │   ├── trailer_1/ 38 кадров из GTA VI Trailer 1 (2023), 4K — см. screenshots/trailer_1/INDEX.md
 │   └── trailer_2/ 34 кадра из GTA VI Trailer 2 (2025), 4K — см. screenshots/trailer_2/INDEX.md
 ├── artwork/       112 официальных артов-обоев: ключевые арты Jason & Lucia, персонажи, cover art, открытки локаций (6 форматов на сюжет) — см. artwork/INDEX.md
-├── maps/          5 фанатских реконструкций карты Leonida (Mapping Community v13, сравнение с GTA V и др.) — см. maps/INDEX.md
+├── maps/          5 фанатских реконструкций карты Leonida + фан-теория «The Final Vice» — см. maps/INDEX.md
 ├── ui/            (пусто)
-└── misc/          34 кадра: магазины, одежда, оружие и промо из паков Ultimate Edition и Vintage Vice City — см. misc/INDEX.md
+└── misc/          34 кадра: магазины, одежда, оружие и промо из паков Ultimate Edition и Vintage Vice City + NEWS_DIGEST_2026-07.md (новостной дайджест июля 2026) — см. misc/INDEX.md
 ```
 
 **Персонажи в библиотеке:** Jason Duval, Lucia Caminos, Boobie Ike, Brian Heder, Cal Hampton, Dre'Quan Priest, Raul Bautista, Real Dimez.
+
+**Справочные файлы:** [SOURCES.md](SOURCES.md) — реестр источников; characters/CHARACTERS.md; locations/LEONIDA.md; vehicles/VEHICLES.md; misc/NEWS_DIGEST_2026-07.md.
 
 ## Как пользоваться
 

@@ -2,6 +2,12 @@
 
 Материалы из официальных пресс-паков Rockstar, не относящиеся к транспорту (транспорт вынесен в `vehicles/`). Все кадры 3840x2160, лицензия «Rockstar promo / fair use», добавлено 2026-07-23.
 
+## Справочные документы
+
+| Файл | Описание |
+|---|---|
+| NEWS_DIGEST_2026-07.md | Новостной дайджест июля 2026: предзаказы, цифры Newzoo, цифровой релиз, суд над хакером, хронология до релиза |
+
 ## ultimate_edition/ — GTA VI Ultimate Edition benefits pack
 
 Магазины, одежда, оружие и общие промо-кадры набора. Машины и катер (grotti_cheetah, squalo, vapid_buggy, vapid_ganado_retro_build, one_eyed_willie, safehouse_vehicles, wyman_car_collection) перенесены в `vehicles/`.

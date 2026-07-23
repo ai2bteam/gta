@@ -9,3 +9,4 @@
 | `leonida_map_reddit_myneurons.jpg` | «Project Americas» от u/MyNeuronsAreFried — максимум подписей (районы Vice City, Lake Leonida, SERA, Bermuda Triangle), лучшая для зумов на локации. 1920x1905 |
 | `leonida_map_reddit_stikylizard.jpg` | Тёмная стилизация под внутриигровую пауз-карту (u/StikyLizardStudiosYT по мэппингу gta6six) — атмосферный фон/оверлей. 640x788 |
 | `leonida_vs_gta5_size_comparison.jpg` | Инфографика «GTA 6 vs GTA 5»: ~146 км² против ~84.75 км², до ~70% больше (u/StikyLizardStudiosYT). Готовый кадр для сравнения размеров. 2000x1400 |
+| `final_vice_painting_fan_theory.png` | Фан-теория: в картине «The Final Vice» из GTA Online разглядели очертания карты Леониды (аннотации Port Gellhorn / озеро / Vice City / Keys). Не официально. 1080x1242 |
